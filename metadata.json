@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Factory Free",
+  "description": "Create cartoon and anime story scripts, image, video, and Urdu voice prompts instantly using free Gemini models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
